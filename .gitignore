@@ -1,8 +1,8 @@
-# Include skills directory (should be tracked)
-!.claude/skills/
-
 # Ignore other .claude entries
 .claude/*
+
+# Include skills directory (should be tracked)
+!.claude/skills/
 
 # OS files
 .DS_Store
