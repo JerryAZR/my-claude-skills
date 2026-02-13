@@ -1,0 +1,15 @@
+# Include skills directory (should be tracked)
+!.claude/skills/
+
+# Ignore other .claude entries
+.claude/*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
